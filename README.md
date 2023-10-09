@@ -11,3 +11,9 @@ all of my configs / notes
 - helix - text editor
 - zellij - terminal multiplexer
 
+### To look at
+- broot
+- procs
+- sd
+- ripgrep
+- exa
