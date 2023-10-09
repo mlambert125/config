@@ -5,13 +5,13 @@ all of my configs / notes
 - ubuntu - os
 - rust/cargo - language
 - zoxide - cd replacement
-- alacritty - terminal emulator
-- nushell - shell
 - starship - prompt
 - helix - text editor
-- zellij - terminal multiplexer
+- alacritty - terminal emulator
 
 ### To look at
+- zellij - terminal multiplexer
+- nushell - shell
 - broot
 - procs
 - sd
