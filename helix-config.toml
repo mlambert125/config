@@ -1,0 +1,24 @@
+theme = "amberwood"
+
+[editor]
+mouse = true
+bufferline = "always"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
+
+[editor.file-picker]
+hidden = false
+
+[keys.insert]  
+'j'	= {j='normal_mode'}
+
+[keys.normal]
+A-d = "delete_selection"
+d = "delete_selection_noyank"
+A-c = "change_selection"
+c = "change_selection_noyank" 
+"ret" = ["open_below", "normal_mode"]
+
