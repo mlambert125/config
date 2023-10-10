@@ -25,15 +25,20 @@ all of my configs / notes
 - Lat pulldown (3x8) 100
 - Rows (3x8) 115
 - Facepull (5x15) 70
-- Curls (4x8) 25
-- Hammer curls (4x8) 25
+- Curls (4x8) 25e
+- Hammer curls (4x8) 25e
 
 ## Push
-- Bench press (4x5)
-- Overhead press (4x5)
+- Bench press (4x5) 185
+- Overhead press (4x5) 115
 - Incline dumbbell (3x8)
 - Tricep pushdowns (3x8)
 - Tricep extensions (3x8)
 - Lat Raises (6x15)
 
 ## Legs
+- Squats (3x5) 225
+- Romanian Deadlift (3x8)
+- Leg press (3x8)
+- Leg Curls (3x8)
+- Calf Raises (5x8)
