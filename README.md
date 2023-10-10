@@ -31,10 +31,10 @@ all of my configs / notes
 ## Push
 - Bench press (4x5) 185
 - Overhead press (4x5) 115
-- Incline dumbbell (3x8)
-- Tricep pushdowns (3x8)
-- Tricep extensions (3x8)
-- Lat Raises (6x15)
+- Incline dumbbell (3x8) 40e
+- Tricep pushdowns (3x8) 80
+- Tricep extensions (3x8) 50
+- Lat Raises (6x15) 5e
 
 ## Legs
 - Squats (3x5) 225
