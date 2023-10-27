@@ -22,3 +22,5 @@ A-c = "change_selection"
 c = "change_selection_noyank" 
 "ret" = ["open_below", "normal_mode"]
 
+[keys.normal.space]
+x = ":buffer-close"
